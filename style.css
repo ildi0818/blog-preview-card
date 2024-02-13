@@ -19,6 +19,7 @@ body {
     /*justify-content: center;
     align-items: center; */
     font-family: 'Figtree';
+    font-size: 1rem;
 }
 
 div {
@@ -49,10 +50,6 @@ button {
 h2:hover {
     color: hsl(47, 88%, 63%);
     cursor: pointer;
-}
-
-p {
-    font-size: 16px;
 }
 
 .info {
