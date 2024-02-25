@@ -47,10 +47,6 @@ button {
     margin-top: 16px;
 }
 
-h2 {
-    /* font-size: 1.5rem; */
-}
-
 h2:hover {
     color: hsl(47, 88%, 63%);
     cursor: pointer;
@@ -63,7 +59,7 @@ h2:hover {
 footer {
     display: flex;
     align-items: center;
-    flex-wrap:wrap ;
+    flex-wrap:wrap;
 }
 
 footer p {
